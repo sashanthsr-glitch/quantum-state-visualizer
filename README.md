@@ -55,3 +55,21 @@ plt.ylabel("Counts")
 plt.title("Quantum State Distribution")
 
 plt.show()
+```
+---
+
+## 🚀 Technologies Used
+
+- Python  
+- Qiskit  
+- Qiskit Aer  
+- Matplotlib
+
+---
+
+## 📌 Future Improvements
+
+- Increase number of qubits for more complex distributions  
+- Add interactive visualization (sliders, live updates)  
+- Run the circuit on real quantum hardware (IBM Quantum)  
+- Build a simple web app interface for user interaction  
